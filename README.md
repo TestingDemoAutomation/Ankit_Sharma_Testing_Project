@@ -1,1 +1,1 @@
-# Ankit_Sharma_Testing_Project
+I created this project for practice purposes in Selenium, Java, and TestNG. The primary objective of this project is to enhance my skills in automated testing by applying these technologies in a practical scenario. Through this project, I aimed to develop a deeper understanding of web automation using Selenium, effectively write test scripts in Java, and utilize TestNG for test management and reporting.
